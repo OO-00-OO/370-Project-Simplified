@@ -1,0 +1,5 @@
+1;Caramel custard;8.00;made with milk, eggs, caramelized sugar, and vanilla.;
+2;Fried Ice Cream;6.50;made with balls of vanilla ice cream coated in egg white, rolled in corn flakes, then quickly fried for a heavenly dessert;
+3;Cheesecake Slice;7.50;Classic Basque Cheesecake;
+4;Strawberry cake;6.50; fluffy vanilla cake is loaded with fresh sweet strawberries and a rich cream cheese;
+5;Brownie w/ Ice Cream;8.50;A warm, chewy, rich chocolate brownie topped with Cocoa Fudge and choco chunks, served hot from the oven with cold, creamy vanilla soft serve.;

@@ -1,0 +1,5 @@
+1;Chicken Alfredo;15.50;Our creamy Alfredo sauce and fresh sauteed, sliced chicken breast served over a bed of tender fettuccine pasta;
+2;Penne alla Vodka;17.50;tender penne pasta tossed in a rich and delicious tomato, vodka and cream sauce, all topped with parmesan cheese;
+3;Rotisserie Chicken;15.50;a great garlic and lemon flavor, complemented by a savory rub mixture. Paprika, salt, coriander, cumin, ginger, and pepper;
+4;Cheeseburger;14.50; burgers that are hand crafted with 100% Angus beef. Always fresh, never frozen. We use fresh, natural and delicious ingredients;
+5;Spaghetti & Meatballs;16.50;spaghetti and meatballs. Perfectly cooked spaghetti topped with tangy tomato sauce pairs with our seasoned Italian meatballs;

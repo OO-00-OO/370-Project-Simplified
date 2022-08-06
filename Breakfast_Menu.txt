@@ -1,0 +1,5 @@
+1;Omelet;10.50;beaten eggs cooked in a frying pan until firm;
+2;Avocado Toast;9.50;Avocado toast is a type of open sandwich consisting of toast with mashed avocado;
+3;Belgian Waffles(3);9.99;Three Waffles with extra-deep pockets—the better for filling with butter ,jam ,maple ,syrup,or whipped cream;
+4;Pancakes(3);9.99;Three Fluffy Pancakes with buttermilk topped with syrup and butter;
+5;Eggs and Bacon;11.99;Classic American Breakfast with two eggs and five strips of bacon;

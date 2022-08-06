@@ -1,0 +1,5 @@
+1;Hamburger;11.50; Signature Blend Beef Patty Topped With Cheddar, Lettuce, Tomato ,and Pickle;
+2;Turkey Sandwich;10.50; Oven-Roasted Turkey, Mashed Potatoes, cornbread stuffing with  Homemade chips;
+3;Sirloin Steak w/ 2 sides;19.50; Grilled, succulent Sirloin, Topped with a dollop of Roasted Shallot Compound Butter;
+4;Veggie Burger;9.50; Our Classic Burger Done vegerain Style;
+5;Chicken Quesadilla;11.50;Grilled Chicken meat, chopped Tomatoes, red onion basil with jack cheese;

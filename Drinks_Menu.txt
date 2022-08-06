@@ -1,0 +1,5 @@
+1;Soda Can;3.50;A can of 16oz Soda;
+2;Sparkling Water;2.50; Schweppes Sparkling Water;
+3;Iced Coffee;3.50; Handcrafted daily, made with a custom blend of cold-brewed coffee and 2% milk, sweetened with pure cane sugar and served over ice;
+4;Homemade Juice;4.50; Pineapple Juice is refreshingly sweet and tangy with just the right amount of tartness;
+5;Smoothie;5.50; blends up fresh strawberries, milk, yogurt, sugar, and vanilla for a tasty, icy treat;
